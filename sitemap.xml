@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SamBruce07.github.io/websites-2/about.html</loc>
-    <lastmod>2026-09-09T20:23:12.579Z</lastmod>
+    <loc>https://SamBruce07.github.io/websites-2/source-2.html</loc>
+    <lastmod>2026-09-09T20:36:46.622Z</lastmod>
   </url>
   <url>
     <loc>https://SamBruce07.github.io/websites-2/index.html</loc>
     <lastmod>2026-09-09T20:15:41.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SamBruce07.github.io/websites-2/source-1.html</loc>
+    <lastmod>2026-09-09T20:36:46.622Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SamBruce07.github.io/websites-2/about.html</loc>
+    <lastmod>2026-09-09T20:23:12.579Z</lastmod>
   </url>
 </urlset>
