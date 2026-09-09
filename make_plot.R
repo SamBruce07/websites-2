@@ -18,4 +18,4 @@ billboard_plot <- top_songs |>
     panel.grid.minor = element_blank()
   )
 
-ggsave("billboard_plot.png", plot = billboard_plot, width = 8, height = 5, dpi = 300)
+ggsave("billboard.png", plot = billboard_plot, width = 8, height = 5, dpi = 300)
