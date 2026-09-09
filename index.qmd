@@ -1,0 +1,29 @@
+---
+title: "Billboard Graphic"
+execute:
+  echo: false
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+```
+
+```{r}
+#| message: false
+billboard |>
+  ggplot(aes(x = date, y = song, color = artist)) +
+  geom_point(size = 3) +
+  labs(
+    title = "Billboard Hits",
+    x = "Date",
+    y = "Song",
+    color = "Artist"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_text(size = 9),
+    legend.position = "bottom"
+  )
+```
